@@ -1,0 +1,17 @@
+<view class="avatar">
+  <image src="../../images/avatar.png" bindtap="loginHandle"></image>
+</view>
+<view class="cells">
+  <navigator class="item">手机号码</navigator>
+  <navigator class="item">姓名</navigator>
+  <view class="divider"></view>
+  <navigator class="item">账户余额</navigator>
+  <navigator class="item">绑定学校</navigator>
+  <navigator class="item">充值记录</navigator>
+  <navigator class="item">当前版本</navigator>
+</view>
+<view class="btn">
+  <button type="warn">退出账号</button>
+  <button type="primary">修改密码</button>
+  <button type="default">修改绑定学校</button>
+</view>

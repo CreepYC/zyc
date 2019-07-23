@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/owner/own",
+    "pages/list/list"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1296db",
+    "navigationBarTitleText": "诚善智能云平台",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "selectedColor": "#1afa29",
+    "backgroundColor": "#1296db",
+    "borderStyle": "black",
+    "position": "bottom",
+    "color": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/admin.png",
+        "selectedIconPath": "images/admin-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/owner/own",
+        "iconPath": "images/own.png",
+        "selectedIconPath": "images/own-active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}

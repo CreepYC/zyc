@@ -1,0 +1,45 @@
+/* pages/list/list.wxss */
+page{
+  background-color: #ccc;
+}
+.main{
+  height: 40rpx;
+  margin: 10rpx 20rpx;
+  padding-left: 10rpx;
+  padding-right: 10rpx;
+  padding-bottom: 5rpx;
+  padding-top: 40rpx;
+}
+.main text{
+  color: #555;
+}
+.log{
+  display: flex;
+  margin: 10rpx 20rpx;
+  padding: 5rpx 10rpx;
+  border: 2rpx solid #eee;
+  border-radius: 10rpx;
+  background-color: #fff;
+}
+.log .item{
+  flex: 1;
+}
+.log .cost{
+  flex: 1;
+  text-align: right;
+  padding-top:28rpx;
+}
+.log .cost .money{
+  justify-content: center;
+}
+.log .item .title{
+  font-size: 32rpx;
+  display: block;
+  margin-bottom: 10rpx;
+}
+.log .item .time{
+  color: #777;
+}
+.log .cost .money{
+  color: red;
+}

@@ -1,0 +1,97 @@
+<!--pages/list/list.wxml-->
+<block class="xml">
+<view class='main'>
+  <text class='record'>消费记录</text>
+  <text class='count'>（共245条）</text>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+<view class='log'>
+  <navigator class='item'>
+  <text class='title'>饮水</text>
+  <text class='time'>2019-06-26 07:32:19</text>
+  </navigator>
+  <view class='cost'>
+   <text class='money'>0.17</text><text>元</text>
+  </view>
+</view>
+</block>

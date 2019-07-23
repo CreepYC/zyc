@@ -1,0 +1,35 @@
+<!--index.wxml-->
+<swiper class="sliders" autoplay='true'>
+  <swiper-item>
+    <image src="../../images/1.jpg" mode="aspectFill" />
+  </swiper-item>
+  <swiper-item>
+    <image src="../../images/2.jpg" mode="aspectFill" />
+  </swiper-item>
+</swiper>
+<view class="grids">
+  <navigator class="item">
+    <image src="../../images/ziyuan.png" />
+    <text>我要打水</text>
+  </navigator>
+  <navigator class="item">
+    <image src="../../images/xiyi.png" />
+    <text>我要洗衣</text>
+  </navigator>
+  <navigator class="item">
+    <image src="../../images/chongzhi.png" />
+    <text>在线充值</text>
+  </navigator>
+  <navigator class="item" url='../list/list'>
+    <image src="../../images/xiaofeijilu.png" />
+    <text>我的消费记录</text>
+  </navigator>
+  <navigator class="item">
+    <image src="../../images/icon.png" />
+    <text>使用说明</text>
+  </navigator>
+  <navigator class="item">
+    <image src="../../images/yanzhengma.png" />
+    <text>固定打水码</text>
+  </navigator>
+</view>
